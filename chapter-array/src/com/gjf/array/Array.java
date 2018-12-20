@@ -83,6 +83,8 @@ public class Array {
         array.printAll();
         array.delete(1);
         array.insert(3, 11);
+        array.insert(3, 11);
+        array.insert(3, 11);
 
         array.printAll();
 

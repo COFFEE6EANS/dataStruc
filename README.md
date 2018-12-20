@@ -1,3 +1,8 @@
 # dataStruc
 ### chapter-array
-主要是学习了数组的原理，然后通过自己手写ArrayList来加以记录自己的学习历程
+* Array静态数组 不支持扩容
+* GenericArray动态数组 动态扩容
+### chapter-link
+* 单链表 MySingleLinkedList
+### chapter-stack
+* 实现链式栈
